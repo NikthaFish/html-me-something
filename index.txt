@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>Where I’ve Been</title>
+	</head>
+	<body>
+		<header>
+			<h1>My Education</h1>
+				<ul>
+					<li><h2>Pattonville High School</h2>
+							<p>
+							In Pattonville Highschool I spend most of my time either playing Volleyball or participating in speech and debate. I completed in many tournament, having success at the national level and performing well at many tournaments.
+							</p></li>
+						<li><h2> Southwest Baptist University</h2>
+							<p>
+							Because of my success at Speech an Debate in highschool, I was offered a large scholarship to compete at Southwest Baptist University. I did that for four years while pursuing a double major of philosophy and biblical studies with a minor in ancient semitic languages. At this point, all I knew about my future was that I wanted to pursue more education.
+							</p></li>
+						<li><h2>St. Louis University</p>
+							<p>
+							After graduating from Southwest Baptist University I accepted a graduate assistantship at Saint Louis University for their master program in communication. While there I specialized in ethnography and worked closely with several professors to help them with the project. 
+							</p></li>
+						<li><h2>LaunchCode</h2>
+							<p>
+							Now that I am finished with my masters degree I am now pursuing being a consultant. As I do that, I would like to add programming to my resume to make myself a more attractive candidate for project management positions. Additionally, coding increasingly becoming an indispensable skill, and I would like to partake in the growth this market is having. 
+							</p></li>
+	</body>	
+</html>
